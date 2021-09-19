@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag1 on Terminal</title>
-    <link>https://spoonietunes.github.io/blog/tags/tag1/</link>
+    <link>https://spoonietunes.org/tags/tag1/</link>
     <description>Recent content in tag1 on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate><atom:link href="https://spoonietunes.github.io/blog/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate><atom:link href="https://spoonietunes.org/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two</title>
-      <link>https://spoonietunes.github.io/blog/post/two/</link>
+      <link>https://spoonietunes.org/post/two/</link>
       <pubDate>Sun, 19 Sep 2021 11:10:53 -0400</pubDate>
       
-      <guid>https://spoonietunes.github.io/blog/post/two/</guid>
+      <guid>https://spoonietunes.org/post/two/</guid>
       <description></description>
       <content>&lt;p&gt;hello workd this is a post!&lt;/p&gt;</content>
     </item>
