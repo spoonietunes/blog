@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://spoonietunes.github.io/blog/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>category on My New Hugo Site</title>
+    <link>https://spoonietunes.github.io/blog/categories/category/</link>
+    <description>Recent content in category on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate>
     
-	<atom:link href="https://spoonietunes.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spoonietunes.github.io/blog/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://spoonietunes.github.io/blog/post/two/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
-      <link>https://spoonietunes.github.io/blog/post/testing/</link>
-      <pubDate>Sun, 19 Sep 2021 10:16:07 -0400</pubDate>
-      
-      <guid>https://spoonietunes.github.io/blog/post/testing/</guid>
-      <description>this is my very first post</description>
     </item>
     
   </channel>

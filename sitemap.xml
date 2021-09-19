@@ -3,26 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://spoonietunes.github.io/blog/categories/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/categories/category/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spoonietunes.github.io/blog/</loc>
-    <lastmod>2021-09-19T10:16:07-04:00</lastmod>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://spoonietunes.github.io/blog/post/</loc>
-    <lastmod>2021-09-19T10:16:07-04:00</lastmod>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/categories/subcategory/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/tags/tag1/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/tags/tag2/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/tags/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spoonietunes.github.io/blog/post/two/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://spoonietunes.github.io/blog/post/testing/</loc>
     <lastmod>2021-09-19T10:16:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spoonietunes.github.io/blog/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://spoonietunes.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
