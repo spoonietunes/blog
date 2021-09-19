@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://spoonietunes.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Sep 2021 10:16:07 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://spoonietunes.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing</title>
-      <link>http://example.org/post/testing/</link>
+      <link>http://spoonietunes.org/post/testing/</link>
       <pubDate>Sun, 19 Sep 2021 10:16:07 -0400</pubDate>
       
-      <guid>http://example.org/post/testing/</guid>
+      <guid>http://spoonietunes.org/post/testing/</guid>
       <description>this is my very first post</description>
     </item>
     
