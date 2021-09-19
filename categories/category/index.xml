@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>category on Terminal</title>
+    <title>category on My New Hugo Site</title>
     <link>https://spoonietunes.org/categories/category/</link>
-    <description>Recent content in category on Terminal</description>
+    <description>Recent content in category on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate><atom:link href="https://spoonietunes.org/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://spoonietunes.org/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Two</title>
       <link>https://spoonietunes.org/post/two/</link>
@@ -14,7 +18,6 @@
       
       <guid>https://spoonietunes.org/post/two/</guid>
       <description></description>
-      <content>&lt;p&gt;hello workd this is a post!&lt;/p&gt;</content>
     </item>
     
   </channel>
