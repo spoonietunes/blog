@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on A Bipolar Brain</title>
     <link>https://spoonietunes.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on A Bipolar Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate>
-    
-	<atom:link href="https://spoonietunes.org/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 20 Sep 2021 12:38:33 -0400</lastBuildDate><atom:link href="https://spoonietunes.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome back, hypomania</title>
+      <link>https://spoonietunes.org/post/intro/</link>
+      <pubDate>Mon, 20 Sep 2021 12:38:33 -0400</pubDate>
+      
+      <guid>https://spoonietunes.org/post/intro/</guid>
+      <description>Back in 2019, shortly after my Bipolar II diagnosis, I started an anonymous blog. Naturally it was my hypomania that gave me the idea and motivated me to do it. If you are bipolar as well, the pressure (the need the ridiculously strong urge) to create might be something you&amp;rsquo;re familiar with.
+So I created the blog and just as quickly deserted it. Again, if you&amp;rsquo;re bipolar, you know how that goes.</description>
+    </item>
     
     <item>
       <title>Two</title>

@@ -1,123 +1,125 @@
 <!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
 <html lang="en-us">
   <head>
-    
-    <script type="application/ld+json">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-{  
-  "@context":"http://schema.org",
-  "@type":"Website",
-  "@id":"https:\/\/spoonietunes.org",
-  "author": {
-    "@type": "Person",
-    "name":  null ,
-    
-  },
-  "name":"My New Hugo Site",
-  "description":"",
-  "url":"https:\/\/spoonietunes.org\/404.html",
-  "keywords":"[]"
-}
+  
+  <title>404 Page not found - My site (under construction)</title>
 
-</script>
-    <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.64.0 with theme Tranquilpeak 0.5.2-BETA">
-<meta name="author" content="">
-<meta name="keywords" content="">
-<meta name="description" content="">
+  
+  
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  
 
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://spoonietunes.org/app.min.css" />
 
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:title" content="404 Page not found">
-<meta name="twitter:title" content="404 Page not found">
-<meta property="og:url" content="https://spoonietunes.org/404.html">
-<meta property="twitter:url" content="https://spoonietunes.org/404.html">
-<meta property="og:site_name" content="My New Hugo Site">
-<meta property="og:description" content="">
-<meta name="twitter:description" content="">
-<meta property="og:locale" content="en">
+  
 
+  
+  <link rel="preload" as="image" href="https://spoonietunes.org/theme.png" />
 
-<meta name="twitter:card" content="summary">
+  
 
+  
+  <link rel="icon" href="https://spoonietunes.org/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://spoonietunes.org/apple-touch-icon.png" />
 
+  
+  <meta name="generator" content="Hugo 0.88.1" />
 
+  
+  
 
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="404 Page not found" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://spoonietunes.org/404.html" />
 
 
-    <title>404 Page not found</title>
+  
+  <meta itemprop="name" content="404 Page not found">
+<meta itemprop="description" content="">
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="404 Page not found"/>
+<meta name="twitter:description" content=""/>
 
-    <link rel="icon" href="/favicon.png">
-    
+  
+  
+</head>
 
-    
 
-    <link rel="canonical" href="https://spoonietunes.org/404.html">
+  <body class="not-ready" data-menu="false">
+    <header class="header">
+  
+  <p class="logo">
+    <a class="site-name" href="https://spoonietunes.org">My site (under construction)</a><a class="btn-dark"></a>
+  </p>
+  
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    
-    
-    <link rel="stylesheet" href="https://spoonietunes.org/css/style-c5yjx2losbmkttdif4mskx5f9pqjjquywurgngxfvceyyrtyatseix5hpd.min.css" />
-    
-    
+  <script>
+    let bodyClx = document.body.classList;
+    let btnDark = document.querySelector('.btn-dark');
+    let sysDark = window.matchMedia('(prefers-color-scheme: dark)');
+    let darkVal = localStorage.getItem('dark');
 
-    
-      
-    
-    
-  </head>
+    let setDark = (isDark) => {
+      bodyClx[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark ? 'yes' : 'no');
+    };
 
-<main class="posts">
-  <article class="post">
-    <h1>404 Not Found</h1>
-    <p>Sorry, but we couldn't find the page you're looking for.</p>
-    <p>Please head back <a href="/">home</a>.</p>
-  </article>
+    setDark(darkVal ? darkVal === 'yes' : sysDark.matches);
+    requestAnimationFrame(() => bodyClx.remove('not-ready'));
+
+    btnDark.addEventListener('click', () => setDark(!bodyClx.contains('dark')));
+    sysDark.addEventListener('change', (event) => setDark(event.matches));
+  </script>
+
+  
+  
+
+  
+</header>
+
+
+    <main class="main">
+<h1 class="title-404">404</h1>
 </main>
-    
-    <div id="about">
-  <div id="about-card">
-    <div id="about-btn-close">
-      <i class="fa fa-times"></i>
-    </div>
-    
-    <h4 id="about-card-name"></h4>
-    
-    
-    
-  </div>
-</div>
 
-    
+    <footer class="footer">
+  <p>&copy; 2021 <a href="https://spoonietunes.org">My site (under construction)</a></p>
+  <p>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</p>
+  <p>
+    <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper 5.1</a>
+  </p>
+</footer>
 
-    
-
-    
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-
-<script src="https://spoonietunes.org/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
-
-
-
-
-
-
-    
   </body>
 </html>
-

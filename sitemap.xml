@@ -1,55 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://spoonietunes.org/categories/</loc>
-    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spoonietunes.org/categories/category/</loc>
-    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://spoonietunes.org/</loc>
-    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-20T12:46:33-04:00</lastmod>
+  </url><url>
+    <loc>https://spoonietunes.org/page/about/</loc>
+    <lastmod>2021-09-20T12:46:33-04:00</lastmod>
+  </url><url>
+    <loc>https://spoonietunes.org/page/</loc>
+    <lastmod>2021-09-20T12:46:33-04:00</lastmod>
+  </url><url>
     <loc>https://spoonietunes.org/post/</loc>
+    <lastmod>2021-09-20T12:38:33-04:00</lastmod>
+  </url><url>
+    <loc>https://spoonietunes.org/post/intro/</loc>
+    <lastmod>2021-09-20T12:38:33-04:00</lastmod>
+  </url><url>
+    <loc>https://spoonietunes.org/categories/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://spoonietunes.org/categories/category/</loc>
+    <lastmod>2021-09-19T11:10:53-04:00</lastmod>
+  </url><url>
     <loc>https://spoonietunes.org/categories/subcategory/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://spoonietunes.org/tags/tag1/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://spoonietunes.org/tags/tag2/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://spoonietunes.org/tags/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://spoonietunes.org/post/two/</loc>
     <lastmod>2021-09-19T11:10:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://spoonietunes.org/post/testing/</loc>
     <lastmod>2021-09-19T10:16:07-04:00</lastmod>
   </url>
-  
 </urlset>

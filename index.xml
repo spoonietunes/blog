@@ -1,33 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>A Bipolar Brain</title>
     <link>https://spoonietunes.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on A Bipolar Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:10:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 12:46:33 -0400</lastBuildDate>
     
-	<atom:link href="https://spoonietunes.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spoonietunes.org/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Two</title>
-      <link>https://spoonietunes.org/post/two/</link>
-      <pubDate>Sun, 19 Sep 2021 11:10:53 -0400</pubDate>
-      
-      <guid>https://spoonietunes.org/post/two/</guid>
-      <description></description>
-    </item>
     
-    <item>
-      <title>Testing</title>
-      <link>https://spoonietunes.org/post/testing/</link>
-      <pubDate>Sun, 19 Sep 2021 10:16:07 -0400</pubDate>
-      
-      <guid>https://spoonietunes.org/post/testing/</guid>
-      <description>this is my very first post</description>
-    </item>
+        <item>
+        <title>About</title>
+        <link>https://spoonietunes.org/page/about/</link>
+        <pubDate>Mon, 20 Sep 2021 12:46:33 -0400</pubDate>
+        
+        <guid>https://spoonietunes.org/page/about/</guid>
+        <description>A Bipolar Brain https://spoonietunes.org/page/about/ -&lt;p&gt;here is the about page&lt;/p&gt;
+- https://spoonietunes.org/page/about/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Welcome back, hypomania</title>
+        <link>https://spoonietunes.org/post/intro/</link>
+        <pubDate>Mon, 20 Sep 2021 12:38:33 -0400</pubDate>
+        
+        <guid>https://spoonietunes.org/post/intro/</guid>
+        <description>A Bipolar Brain https://spoonietunes.org/post/intro/ -&lt;p&gt;Back in 2019, shortly after my Bipolar II diagnosis, I started an anonymous blog. Naturally it was my hypomania that gave me the idea and motivated me to do it. If you are bipolar as well, the pressure (the &lt;em&gt;need&lt;/em&gt; the &lt;em&gt;ridiculously strong urge&lt;/em&gt;) to create might be something you&amp;rsquo;re familiar with.&lt;/p&gt;
+&lt;p&gt;So I created the blog and just as quickly deserted it. Again, if you&amp;rsquo;re bipolar, you know how that goes. Start a project while hypomanic/manic, good luck finishing it!&lt;/p&gt;
+&lt;p&gt;I tend to experience my biggest periods of hypomania in the Spring and Fall. Just like clockwork, as the leaves started to change and the air started to cool, my energy level shot up. Racing thoughts - tons of ideas - tons of energy&amp;hellip; If it weren&amp;rsquo;t for the skills I&amp;rsquo;ve learned in therapy I would almost certainly be completely off the rails right now.&lt;/p&gt;
+&lt;p&gt;Thankfully, luckily, I have some tools to try and keep things under control. Breathing exercises, hot baths, avoiding too much coffee and alcohol, checking in with myself frequently&amp;hellip;&lt;/p&gt;
+&lt;p&gt;And yet, here I am, starting another new blog! I have that almost-uncontrollable urge to share. The whole &amp;ldquo;oversharing&amp;rdquo; thing, as I understand it, is a common bipolar thing. I&amp;rsquo;m convincing myself that this could be a nice outlet for all my ideas and energy, and perhaps it might also help others. It&amp;rsquo;s been two and a half years since my diagnosis (and starting therapy) and I have come a long way.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m hoping that whatever I write here during this hypomanic episode will be helpful, either to me, you, or both!&lt;/p&gt;
+- https://spoonietunes.org/post/intro/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Two</title>
+        <link>https://spoonietunes.org/post/two/</link>
+        <pubDate>Sun, 19 Sep 2021 11:10:53 -0400</pubDate>
+        
+        <guid>https://spoonietunes.org/post/two/</guid>
+        <description>A Bipolar Brain https://spoonietunes.org/post/two/ -&lt;p&gt;hello workd this is a post!&lt;/p&gt;- https://spoonietunes.org/post/two/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Testing</title>
+        <link>https://spoonietunes.org/post/testing/</link>
+        <pubDate>Sun, 19 Sep 2021 10:16:07 -0400</pubDate>
+        
+        <guid>https://spoonietunes.org/post/testing/</guid>
+        <description>A Bipolar Brain https://spoonietunes.org/post/testing/ -&lt;p&gt;this is my very first post&lt;/p&gt;
+- https://spoonietunes.org/post/testing/ - </description>
+        </item>
+    
     
   </channel>
-</rss>
+</rss> 
