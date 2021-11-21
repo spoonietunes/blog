@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>Posts</title>
+<title>Oversharing</title>
 
 
 
@@ -50,6 +50,8 @@
 
 
 
+
+  <script src="/js/toc.js"></script>
 
 
 
@@ -147,6 +149,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 </div><div id="extraContainer" class="extra-container">
     
     
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+</div>
+    
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
             <i class="material-icons pagination-action-icon">
@@ -159,8 +166,6 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 dark_mode
             </span>
         </a>
-        
-        
         
         
     </div>
@@ -225,6 +230,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
             
             
+            <div class="toc">
+
+
+</div>
+            
         </div>
     </div>
 </div>
@@ -264,196 +274,125 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 <div id="streamContainer" class="stream-container">
 
     <div class="post-list-container post-list-container-shadow">
-        
-            <a class="a-block">
-                <div class="post-item-wrapper post-item-wrapper-no-hover">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title post-item-title-small year">
-                                2021
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
+        <div class="post">
             
-            <a href="/post/oversharing/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Oversharing
-                            </div>
-                            <div class="post-item-meta">
-	<i>November 21, 2021</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            
+            
 
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-            <a href="/post/nov-hypo/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Having a difficult time
-                            </div>
-                            <div class="post-item-meta">
-	<i>November 20, 2021</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            <div class="post-head-wrapper-text-only"
+                
+            >
+                <div class="post-title">
+                    Oversharing
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+			    November 21, 2021
+                        </time>
+                        
 
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-            <a href="/post/guiding_the_firehose/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Guiding the firehose
-                            </div>
-                            <div class="post-item-meta">
-	<i>September 21, 2021</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+                        
 
-                        </div>
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/hypomania">hypomania</a>
+                                &nbsp;
+                            
+                                <a href="/tags/oversharing">oversharing</a>
+                                &nbsp;
+                            
+                        
+                        
                     </div>
                 </div>
-            </a>
+            </div>
             
-            <a href="/post/sep20-2021/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Wrangling my racing thoughts
-                            </div>
-                            <div class="post-item-meta">
-	<i>September 20, 2021</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p>A common symptom of bipolar disorder during hypomanic or manic phases is oversharing. For me, this presents as a strong desire - a compulsion, really - to share my thoughts with others. For instance, I will share my current obsession or project with anyone who will listen, whether they asked about it or not, and generally I will not pay any attention to their response. I just <em>need</em> to blast out my thoughts to others. I&rsquo;m incapable of keeping it inside.</p>
+<p>A related symptom is <em>pressured speech</em>, where I feel compelled to keep talking, usually very quickly.  Silence feels uncomfortable!  I must fill up the silence with words, probably oversharing.</p>
+<p>Sometimes I convince myself that I am trying to help others - like sharing my experiences in a blog like this - which may or may not actually be true. Sometimes it&rsquo;s just a visceral urge to vomit a word-salad.</p>
+<p>Some examples of my oversharing:</p>
+<ul>
+<li>When I was in high school I shared practically every aspect of puberty with my parents. Remembering some of these conversations now makes me cringe</li>
+<li>In talk therapy sessions I will get off track and tell my therapist all the details of my current projects. Although he is there to help me, does he really need to hear about the intricacies of how transducers work in piezo pickup circuits? Or all the methods to brew Belgian farmhouse ales? Or an overview of the history of 20th century avant garde music?</li>
+<li>I will make idle chit-chat with random people like cashiers, wait staff, people standing in a line with me, anybody who happens to be in my vicinity</li>
+<li>I will create a new blog to fill with posts about whatever my current project is</li>
+<li>I will post to social media frequently, sharing every little thing I&rsquo;m working on</li>
+<li>This post you&rsquo;re reading, right now!</li>
+</ul>
+<p>I think normally this oversharing is received somewhere between vague interest and mild annoyance. After all, I&rsquo;m only talking about myself and generally not being a good listener. In the moment I am completely oblivious to this. It&rsquo;s only later when I think about these conversations that I realize what was happening and cringe. Sometimes I overshare <em>way</em> too much and regret it later; that bell can&rsquo;t be un-rung.</p>
+<p>After my diagnosis, research, and therapy sessions, I am more aware of this oversharing when it is happening. I can&rsquo;t always act on this insight to slow it down or stop it entirely, but it can sometimes be hint that my mood is getting elevated. It&rsquo;s a warning sign that I need to slow down.</p>
 
-                        </div>
-                    </div>
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2021-11-21</p>
+                    
                 </div>
-            </a>
+            </div>
             
-            <a href="/post/welcome_back_hypomania/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Welcome back, hypomania
-                            </div>
-                            <div class="post-item-meta">
-	<i>September 20, 2021</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            
+            <nav class="post-pagination">
 
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-        
-            <a class="a-block">
-                <div class="post-item-wrapper post-item-wrapper-no-hover">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title post-item-title-small year">
-                                2019
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-            <a href="/post/how_did_i_get_here_part2/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                How did I get here? (Part 2)
-                            </div>
-                            <div class="post-item-meta">
-	<i>June 25, 2019</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+                
+                <a class="newer-posts">
+			Next<br>No newer posts.
+                </a>
+                
+                
+                
+                <a class="older-posts" href="https://spoonietunes.org/post/nov-hypo/">
+			Previous<br>Having a difficult time
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+                
+                    
 
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-            <a href="/post/how_did_i_get_here/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-gaps">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                How did I get here?
-                            </div>
-                            <div class="post-item-meta">
-	<i>June 24, 2019</i>
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
 
-                        </div>
-                    </div>
-                </div>
-            </a>
-            
-        
+
+
+
+
+
+
+
+<i>to comment anonymously, enter your comment, click inside the "Name" box, then check "I'd rather post as a guest"</i>
+                        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "spoonietunes" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                    
+                
+            </div>
+        </div>
     </div>
 
 
-
                     </div>
-            </div>
-
-
-<div id="single-column-footer">
+            </div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://amazingrise.net">Rise</a>
 <br>
 Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
